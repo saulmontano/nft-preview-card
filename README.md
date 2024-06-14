@@ -3,4 +3,4 @@ bootstrap, node.js, HTML fueron las herramientas para llevar a cabo este desafio
 Componente de tarjeta de vista previa de NFT, 
 NFT preview card component,
 desafio completado.
-https://saulmontano.github.io/nft-preview-card/
+
